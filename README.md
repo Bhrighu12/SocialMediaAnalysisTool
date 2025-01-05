@@ -41,7 +41,7 @@ streamlit run main.py
 ## How to Use
 (1) Select a Post Type to get insights about it.
 
-(2) Click on the "Generate Insights" button to analyze the query.
+(2) Click on the "Generate AI Insights" button to analyze the query.
 
 View the analysis result along with pictorial representation.
 
