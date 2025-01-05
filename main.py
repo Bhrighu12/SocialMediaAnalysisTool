@@ -53,7 +53,9 @@ def main():
 
     # User Input
     post_types = ['Carousel', 'Reels', 'Static image']
-    message = st.selectbox("Select post type",post_types)
+    message2 = st.selectbox("Select post type",post_types)
+    message3 = st.text_area("", placeholder="Enter your Query regarding Post type")
+    message = "The Post type is "+message2+"and query is "+message3
 
     # Generate Response Button
     if st.button("🚀 Generate AI Insights"):
