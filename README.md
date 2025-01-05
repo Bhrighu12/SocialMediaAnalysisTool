@@ -47,9 +47,12 @@ View the analysis result along with pictorial representation.
 
 
 ## Demonstration
+https://youtu.be/smLCuUb0HIU
 
 ## Website Link
 https://coderssquad-socialmediatool.streamlit.app/
+Note: Sometimes it may show Error after clicking Generate Insights Try Clicking again,
+this might be due to API Not responding
 
 
 ## Notes
