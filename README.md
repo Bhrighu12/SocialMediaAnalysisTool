@@ -1,6 +1,6 @@
-#Social Media Analyser Tool
+# Social Media Analyser Tool
 This Streamlit Chatbot, built using Langflow and powered by AstraDB, provides AI-driven insights into social media post performance. Users can analyze engagement data across different post types, such as Reels,Carousel,Static images, to better understand audience interactions.
-##Key Features:
+## Key Features:
 Post Type Selection – Choose from various social media post formats (e.g., static images,reels,carousel).
 AI-Powered Insights – Leverage AI to generate detailed engagement analytics for posts, including likes, comments, shares, and impressions.
 GPT Integration - GPT-4o-mini to generate detailed conclusions and insight
